@@ -1,0 +1,3 @@
+## YouTube Clone
+### A YouTube clone built with React, Redux, and the YouTube API
+In this project, I built a YouTube clone using React and Material UI, and the YouTube API. The app allows users to search for videos, watch videos, and save videos to a watch later list (which is not implemented yet). This is a working app that I will continue to improve upon even after completing the tutorial. I will add more features and improve the UI as I learn more about React and Redux.
