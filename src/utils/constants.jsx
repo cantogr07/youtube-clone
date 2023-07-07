@@ -16,10 +16,9 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, }, 
-  { name: 'Fireship', icon: <MusicNoteIcon />, }, // TODO: Customize this later!
+  { name: 'Can Togran Piano', icon: <MusicNoteIcon />, }, // TODO: Customize this later!
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
-  { name: 'NextJS', icon: <CodeIcon />, },
   { name: 'Music', icon: <MusicNoteIcon /> },
   { name: 'Education', icon: <SchoolIcon />, },
   { name: 'Podcast', icon: <GraphicEqIcon />, },
@@ -31,6 +30,7 @@ export const categories = [
   { name: 'Beauty', icon: <FaceRetouchingNaturalIcon />, },
   { name: 'Comedy', icon: <TheaterComedyIcon />, },
   { name: 'Gym', icon: <FitnessCenterIcon />, },
+  { name: 'Blockchain', icon: <DeveloperModeIcon />, },
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
